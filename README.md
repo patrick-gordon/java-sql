@@ -1,4 +1,4 @@
-# java-sql
+  # java-sql
 
 A student that completes this project shows that they can:
 * Query data from a single table
